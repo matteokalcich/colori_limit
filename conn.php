@@ -1,7 +1,7 @@
 <?php
 
 
-$db = mysqli_connect('localhost', 'quintae', 'Qu!nta', 'colore');
+$db = mysqli_connect('localhost', 'root', '', 'colore');
 
 
 ?>
